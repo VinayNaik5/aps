@@ -1,1 +1,13 @@
+Binary coefficient v1:
+user 2d array 
+suitable to calculate all the values between the n & k
+can be used when we need to get more than one value within the given limit 
 
+Binary coefficient V2:
+uses 1d arry(hence reduces the memory required for computation)
+faster processing
+return required number 
+
+Recursive:
+requires more time( due functin calls) and memory (stores the state of the functin at each function call)
+more complex when the input is large
