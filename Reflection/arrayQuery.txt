@@ -1,0 +1,13 @@
+look-up table:
+1. uses 2D array for lookup table.
+2. access time is in the order of O(1)..(constant)
+3. space and time complexity to form table is O(n^2)
+
+
+Square root decomposition:
+table is 1D array.
+table stores the minimum value of perticular range.
+access time is in the order of O(sqrt(n)).
+O(sqrt(n)) space complexity.
+disadvantage: search is posiible only if the given index completly cover the  lookup table .
+
